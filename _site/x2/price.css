@@ -1,0 +1,188 @@
+
+div { position:relative } 
+#main-content{ margin-left:7%;width:100%}
+.content{margin-top:100px;text-align:center;color:#c5c5c5;font-size:25px;text-shadow: #ffffff 1px 1px 1px;}
+a.go{font-size:15px}
+a.go:hover{text-decoration:underline}
+
+
+
+
+
+
+    
+    
+       opacity: 0.7; /* Полупрозрачность элемента */
+     }
+.window{
+    
+ margin:50px auto 50px;  
+   
+  width: 700px;
+  font-size: 25px;
+}
+
+.norm{
+   
+    text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  text-shadow: 0px 0px 3px rgba(255,255,255,0.7);
+  margin-top: -30px;
+ 
+  
+}
+ 
+ .simple-input {
+    margin:0 auto;
+    display: block;
+    color: #333;
+ 
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: 500;
+}
+ 
+.simple-input:hover {
+   
+}
+ 
+.simple-input:focus {
+    outline: none;
+   
+    border-color: #EBD292;
+}
+.but{
+    font-size: 20px;
+    margin-top: 5px;
+    width: 150px;
+    height: 50px;
+     color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: rgb(212,75,56); /* фон кнопки */
+  padding: .7em 1.5em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+  border: none;
+}
+.but:hover{
+    background: rgb(232,95,76); 
+}
+.but:active { background: rgb(152,15,0); } 
+.plan{
+    color: orange;
+    font-size: 27px;
+}
+.addres{
+   font-size: 30px;
+   background-color: black;
+}
+
+.zaga{
+    text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-bottom: -50px;
+  margin-top: 140px;
+ 
+}
+.zaga1{
+    text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-top: -140px;
+
+
+}
+.normal{
+    text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 800;
+ 
+
+
+}
+.normal1{
+    text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 800;
+  
+ }
+ .gre{
+    color:#42dca3;
+}
+
+.add{
+    font-size: 30px;
+  
+  color: steelblue;
+  transition: all 1s;
+  }
+  .add:hover {
+   color: yellowgreen;
+    }
+    
+    .qr{
+        background-color: #E59477;
+        
+    }
+    
+.wowbox{
+    width: 100%;
+    padding: 30px 0;
+    color: #fff;
+    background-color: rgb(213, 186, 197);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.zat{
+    
+    background-color: black;
+    
+       opacity: 0.7; /* Полупрозрачность элемента */
+      
+
+}
+.text1{
+    font-size: 23px;
+    color: black;
+}
+.cif1{
+    
+    margin-left: -10px;
+    font-size: 26px;
+    font-weight: 700;
+    color: rgb(94, 27, 132);
+    white-space: pre;
+}
+.ihave{
+    position: absolute;
+    margin-left: 37%;
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.btc{
+    position: absolute;
+    margin-left: 58%;
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: 500;
+    color: orange;
+}
+.space{
+    margin-top: 6%;
+}
+.inp{
+
+    color: black;
+}
+.newblok{
+    position: ;
+}
