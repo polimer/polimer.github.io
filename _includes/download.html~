@@ -1,24 +1,18 @@
  <!-- Download Section -->
-
+ <link rel="stylesheet" href="x2/price.css" media="screen" type="text/css">
     <section id="download" class="content-section text-center">
         <div class="download-section">       
-            <p class="norm">Введите сумму для вклада и узнайте сколько вы сможете получить</p>
-          
-            <br>
-            <br>
-            <p class="ihave">У меня есть</p>
-             
-         <p class="btc">BTC</p>
-            
-<form method="post" action="form.html" id="form_id" class="form1">
-<input type="number" class="simple-input" name="name" value="0.005" min="0.001" max="9" step="0.001">
-<input type="button"  class="but" value="расчитать" onclick="AjaxFormRequest('result_div_id', 'form_id', 'form.html')" />
-</form>
-        <div class="space"></div>
-        <div class="window"  id="result_div_id">
-            <img src="img/up.png" />
-        </div>
-         
-        </div>
+ 
+     
+     <p class="norm">Вложенные Bitcoins удваиваются через 24 часа и возвращаются к вам!</p>
+
+     <p>
+     Минимальный депозит: <font class="plan"> 0.001</font> btc,
+     максимальный депозит: <font class="plan">5.00</font> btc!
+
+      
+                   <p class="norm">отправьте Bitcoins по указанному ниже адресу, чтобы пополнить свой баланс депозита. </p>
+        <p class="addres">17auaodrip9xLSy9bsxVXJMoZqMcL7DmFG</p>
+
     </section>
 

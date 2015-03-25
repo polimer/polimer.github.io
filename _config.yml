@@ -1,7 +1,7 @@
 # Site settings
 title: Мгновенное удвоение ваших bitcoin!
 email: your-email@domain.com
-url: https://polimer.github.io/
+url: http://localhost:4000/
 description: "Мгновенное удовение ваших bitcoin! Всего за пару дней увеличение в два раза!"
 
 # Color settings (hex-codes without the leading hash-tag)
